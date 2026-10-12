@@ -1,0 +1,1001 @@
+ID_Invoice,Tipe_Pelanggan,Total_Tagihan,Batas_Waktu_Hari,Status_Pembayaran
+INV-0001,Retail,10070000.0,45,Tepat Waktu
+INV-0002,Government,27550000.0,45,Terlambat
+INV-0003,Corporate,43770000.0,45,Tepat Waktu
+INV-0004,Corporate,36880000.0,30,Tepat Waktu
+INV-0005,Retail,40520000.0,30,Tepat Waktu
+INV-0006,Retail,33280000.0,30,Tepat Waktu
+INV-0007,Retail,34920000.0,45,Tepat Waktu
+INV-0008,Corporate,42610000.0,30,Tepat Waktu
+INV-0009,Corporate,13230000.0,15,Terlambat
+INV-0010,Corporate,24980000.0,15,Tepat Waktu
+INV-0011,Retail,11840000.0,30,Tepat Waktu
+INV-0012,Government,49400000.0,15,Tepat Waktu
+INV-0013,Corporate,47260000.0,15,Tepat Waktu
+INV-0014,Retail,2930000.0,45,Tepat Waktu
+INV-0015,Retail,35570000.0,30,Tepat Waktu
+INV-0016,Retail,46340000.0,30,Tepat Waktu
+INV-0017,Retail,9850000.0,45,Tepat Waktu
+INV-0018,Corporate,28830000.0,15,Tepat Waktu
+INV-0019,Retail,45860000.0,15,Tepat Waktu
+INV-0020,Retail,2660000.0,30,Tepat Waktu
+INV-0021,Corporate,35170000.0,15,Tepat Waktu
+INV-0022,Retail,15570000.0,45,Terlambat
+INV-0023,Retail,46300000.0,45,Tepat Waktu
+INV-0024,Retail,48580000.0,30,Tepat Waktu
+INV-0025,Retail,47270000.0,45,Tepat Waktu
+INV-0026,Corporate,24240000.0,45,Terlambat
+INV-0027,Retail,43240000.0,30,Tepat Waktu
+INV-0028,Corporate,42380000.0,45,Tepat Waktu
+INV-0029,Corporate,16640000.0,45,Terlambat
+INV-0030,Retail,41620000.0,45,Tepat Waktu
+INV-0031,Corporate,2810000.0,15,Tepat Waktu
+INV-0032,Retail,30220000.0,30,Tepat Waktu
+INV-0033,Retail,12270000.0,30,Tepat Waktu
+INV-0034,Government,6910000.0,30,Tepat Waktu
+INV-0035,Government,4770000.0,15,Tepat Waktu
+INV-0036,Corporate,35120000.0,15,Tepat Waktu
+INV-0037,Retail,17650000.0,30,Tepat Waktu
+INV-0038,Retail,36510000.0,15,Tepat Waktu
+INV-0039,Corporate,4200000.0,30,Tepat Waktu
+INV-0040,Retail,16450000.0,15,Tepat Waktu
+INV-0041,Retail,27440000.0,45,Tepat Waktu
+INV-0042,Retail,39750000.0,45,Tepat Waktu
+INV-0043,Retail,16620000.0,30,Tepat Waktu
+INV-0044,Government,31670000.0,15,Tepat Waktu
+INV-0045,Retail,44410000.0,15,Terlambat
+INV-0046,Corporate,31180000.0,45,Terlambat
+INV-0047,Retail,12420000.0,45,Tepat Waktu
+INV-0048,Corporate,2200000.0,15,Terlambat
+INV-0049,Corporate,43630000.0,15,Terlambat
+INV-0050,Retail,2040000.0,15,Tepat Waktu
+INV-0051,Government,43860000.0,15,Tepat Waktu
+INV-0052,Corporate,26920000.0,15,Tepat Waktu
+INV-0053,Government,47010000.0,15,Tepat Waktu
+INV-0054,Corporate,40140000.0,30,Tepat Waktu
+INV-0055,Corporate,49900000.0,15,Tepat Waktu
+INV-0056,Government,18180000.0,45,Tepat Waktu
+INV-0057,Retail,38590000.0,30,Tepat Waktu
+INV-0058,Retail,20690000.0,15,Tepat Waktu
+INV-0059,Retail,24510000.0,45,Tepat Waktu
+INV-0060,Retail,31750000.0,30,Tepat Waktu
+INV-0061,Retail,43810000.0,45,Terlambat
+INV-0062,Retail,49220000.0,15,Terlambat
+INV-0063,Corporate,38650000.0,15,Terlambat
+INV-0064,Retail,21470000.0,15,Terlambat
+INV-0065,Retail,21650000.0,15,Tepat Waktu
+INV-0066,Corporate,37140000.0,30,Terlambat
+INV-0067,Retail,12700000.0,30,Tepat Waktu
+INV-0068,Corporate,6410000.0,45,Tepat Waktu
+INV-0069,Retail,18380000.0,15,Tepat Waktu
+INV-0070,Government,15070000.0,45,Tepat Waktu
+INV-0071,Corporate,15520000.0,30,Tepat Waktu
+INV-0072,Retail,12450000.0,15,Tepat Waktu
+INV-0073,Retail,3060000.0,15,Tepat Waktu
+INV-0074,Corporate,1880000.0,30,Tepat Waktu
+INV-0075,Corporate,49400000.0,30,Tepat Waktu
+INV-0076,Corporate,21960000.0,30,Terlambat
+INV-0077,Corporate,19830000.0,30,Terlambat
+INV-0078,Retail,34300000.0,30,Tepat Waktu
+INV-0079,Retail,11690000.0,15,Tepat Waktu
+INV-0080,Retail,47550000.0,30,Tepat Waktu
+INV-0081,Corporate,39530000.0,15,Tepat Waktu
+INV-0082,Corporate,5380000.0,15,Terlambat
+INV-0083,Retail,21460000.0,30,Tepat Waktu
+INV-0084,Retail,44080000.0,30,Tepat Waktu
+INV-0085,Retail,47290000.0,15,Terlambat
+INV-0086,Retail,23900000.0,30,Tepat Waktu
+INV-0087,Corporate,31060000.0,30,Tepat Waktu
+INV-0088,Corporate,9180000.0,30,Tepat Waktu
+INV-0089,Corporate,49570000.0,45,Tepat Waktu
+INV-0090,Retail,12350000.0,15,Tepat Waktu
+INV-0091,Retail,47190000.0,45,Tepat Waktu
+INV-0092,Corporate,32830000.0,30,Tepat Waktu
+INV-0093,Corporate,30780000.0,45,Terlambat
+INV-0094,Corporate,26120000.0,30,Tepat Waktu
+INV-0095,Corporate,12300000.0,45,Tepat Waktu
+INV-0096,Retail,9650000.0,30,Tepat Waktu
+INV-0097,Corporate,11800000.0,45,Terlambat
+INV-0098,Retail,10140000.0,45,Tepat Waktu
+INV-0099,Retail,39200000.0,45,Tepat Waktu
+INV-0100,Retail,18160000.0,15,Tepat Waktu
+INV-0101,Retail,3830000.0,45,Tepat Waktu
+INV-0102,Corporate,48490000.0,15,Tepat Waktu
+INV-0103,Retail,44310000.0,30,Tepat Waktu
+INV-0104,Corporate,46460000.0,45,Tepat Waktu
+INV-0105,Government,49750000.0,30,Tepat Waktu
+INV-0106,Retail,9520000.0,30,Tepat Waktu
+INV-0107,Retail,20420000.0,45,Tepat Waktu
+INV-0108,Corporate,38150000.0,15,Tepat Waktu
+INV-0109,Retail,35110000.0,45,Tepat Waktu
+INV-0110,Retail,8540000.0,30,Terlambat
+INV-0111,Retail,40980000.0,30,Tepat Waktu
+INV-0112,Retail,12000000.0,45,Terlambat
+INV-0113,Government,11970000.0,15,Tepat Waktu
+INV-0114,Corporate,27310000.0,15,Terlambat
+INV-0115,Corporate,30050000.0,30,Tepat Waktu
+INV-0116,Corporate,29420000.0,30,Terlambat
+INV-0117,Corporate,5480000.0,15,Terlambat
+INV-0118,Retail,44000000.0,45,Tepat Waktu
+INV-0119,Corporate,14010000.0,30,Terlambat
+INV-0120,Corporate,7350000.0,15,Tepat Waktu
+INV-0121,Corporate,44550000.0,30,Tepat Waktu
+INV-0122,Corporate,47830000.0,45,Tepat Waktu
+INV-0123,Retail,43240000.0,15,Tepat Waktu
+INV-0124,Retail,40670000.0,30,Tepat Waktu
+INV-0125,Retail,33110000.0,45,Tepat Waktu
+INV-0126,Retail,27990000.0,30,Terlambat
+INV-0127,Corporate,5260000.0,45,Tepat Waktu
+INV-0128,Corporate,21010000.0,45,Terlambat
+INV-0129,Retail,19260000.0,15,Terlambat
+INV-0130,Corporate,13730000.0,45,Terlambat
+INV-0131,Retail,36450000.0,30,Terlambat
+INV-0132,Retail,25300000.0,45,Tepat Waktu
+INV-0133,Retail,4970000.0,45,Terlambat
+INV-0134,Retail,11790000.0,15,Tepat Waktu
+INV-0135,Government,34480000.0,45,Tepat Waktu
+INV-0136,Retail,4730000.0,45,Tepat Waktu
+INV-0137,Corporate,42710000.0,30,Terlambat
+INV-0138,Corporate,25260000.0,15,Tepat Waktu
+INV-0139,Retail,24550000.0,15,Tepat Waktu
+INV-0140,Government,30030000.0,15,Tepat Waktu
+INV-0141,Government,41410000.0,45,Tepat Waktu
+INV-0142,Retail,18040000.0,15,Tepat Waktu
+INV-0143,Retail,34220000.0,45,Tepat Waktu
+INV-0144,Retail,28720000.0,45,Tepat Waktu
+INV-0145,Retail,14080000.0,30,Tepat Waktu
+INV-0146,Retail,44050000.0,30,Tepat Waktu
+INV-0147,Corporate,40070000.0,30,Tepat Waktu
+INV-0148,Corporate,33260000.0,30,Terlambat
+INV-0149,Retail,42680000.0,30,Tepat Waktu
+INV-0150,Retail,43500000.0,45,Tepat Waktu
+INV-0151,Government,35710000.0,45,Tepat Waktu
+INV-0152,Retail,42010000.0,15,Tepat Waktu
+INV-0153,Retail,35180000.0,45,Tepat Waktu
+INV-0154,Retail,34330000.0,45,Tepat Waktu
+INV-0155,Government,31310000.0,30,Tepat Waktu
+INV-0156,Retail,37880000.0,45,Tepat Waktu
+INV-0157,Corporate,8770000.0,30,Tepat Waktu
+INV-0158,Corporate,44160000.0,15,Tepat Waktu
+INV-0159,Retail,43720000.0,15,Tepat Waktu
+INV-0160,Corporate,2430000.0,45,Tepat Waktu
+INV-0161,Retail,41470000.0,15,Tepat Waktu
+INV-0162,Corporate,7310000.0,45,Tepat Waktu
+INV-0163,Corporate,17420000.0,15,Terlambat
+INV-0164,Corporate,37430000.0,30,Terlambat
+INV-0165,Retail,8880000.0,30,Tepat Waktu
+INV-0166,Corporate,41080000.0,30,Terlambat
+INV-0167,Retail,41770000.0,30,Tepat Waktu
+INV-0168,Retail,25870000.0,45,Tepat Waktu
+INV-0169,Retail,1310000.0,15,Tepat Waktu
+INV-0170,Corporate,15060000.0,45,Terlambat
+INV-0171,Corporate,31230000.0,30,Terlambat
+INV-0172,Retail,49080000.0,45,Tepat Waktu
+INV-0173,Corporate,31960000.0,15,Tepat Waktu
+INV-0174,Retail,13730000.0,45,Tepat Waktu
+INV-0175,Corporate,32070000.0,15,Tepat Waktu
+INV-0176,Retail,27460000.0,45,Tepat Waktu
+INV-0177,Corporate,39210000.0,15,Tepat Waktu
+INV-0178,Retail,6240000.0,15,Tepat Waktu
+INV-0179,Government,38290000.0,30,Tepat Waktu
+INV-0180,Retail,27520000.0,15,Tepat Waktu
+INV-0181,Retail,48190000.0,30,Terlambat
+INV-0182,Retail,17750000.0,30,Tepat Waktu
+INV-0183,Government,32000000.0,30,Tepat Waktu
+INV-0184,Corporate,46670000.0,45,Tepat Waktu
+INV-0185,Retail,6020000.0,45,Tepat Waktu
+INV-0186,Corporate,46920000.0,45,Tepat Waktu
+INV-0187,Corporate,34710000.0,45,Tepat Waktu
+INV-0188,Corporate,4320000.0,15,Terlambat
+INV-0189,Corporate,15750000.0,15,Tepat Waktu
+INV-0190,Retail,35700000.0,45,Terlambat
+INV-0191,Retail,4300000.0,15,Tepat Waktu
+INV-0192,Corporate,29530000.0,15,Tepat Waktu
+INV-0193,Government,17950000.0,30,Tepat Waktu
+INV-0194,Corporate,31420000.0,30,Tepat Waktu
+INV-0195,Retail,3240000.0,30,Tepat Waktu
+INV-0196,Retail,43710000.0,30,Tepat Waktu
+INV-0197,Corporate,48700000.0,15,Tepat Waktu
+INV-0198,Corporate,48480000.0,45,Terlambat
+INV-0199,Corporate,37730000.0,15,Terlambat
+INV-0200,Corporate,7370000.0,15,Terlambat
+INV-0201,Corporate,38150000.0,15,Tepat Waktu
+INV-0202,Retail,2200000.0,30,Tepat Waktu
+INV-0203,Retail,2080000.0,30,Tepat Waktu
+INV-0204,Corporate,16860000.0,30,Tepat Waktu
+INV-0205,Corporate,24940000.0,45,Tepat Waktu
+INV-0206,Retail,38750000.0,15,Tepat Waktu
+INV-0207,Retail,34480000.0,45,Tepat Waktu
+INV-0208,Corporate,22850000.0,30,Tepat Waktu
+INV-0209,Retail,14410000.0,45,Terlambat
+INV-0210,Retail,49860000.0,15,Tepat Waktu
+INV-0211,Corporate,21880000.0,15,Tepat Waktu
+INV-0212,Corporate,23120000.0,30,Tepat Waktu
+INV-0213,Corporate,9020000.0,30,Terlambat
+INV-0214,Retail,39950000.0,45,Tepat Waktu
+INV-0215,Corporate,34990000.0,30,Tepat Waktu
+INV-0216,Retail,11820000.0,30,Tepat Waktu
+INV-0217,Retail,5040000.0,15,Tepat Waktu
+INV-0218,Corporate,34340000.0,30,Tepat Waktu
+INV-0219,Corporate,33070000.0,30,Terlambat
+INV-0220,Corporate,14390000.0,15,Terlambat
+INV-0221,Corporate,47590000.0,15,Terlambat
+INV-0222,Corporate,8400000.0,45,Tepat Waktu
+INV-0223,Retail,22180000.0,30,Terlambat
+INV-0224,Retail,47240000.0,15,Tepat Waktu
+INV-0225,Retail,21570000.0,45,Tepat Waktu
+INV-0226,Retail,32290000.0,45,Tepat Waktu
+INV-0227,Government,20480000.0,30,Tepat Waktu
+INV-0228,Retail,14440000.0,30,Tepat Waktu
+INV-0229,Corporate,49210000.0,45,Terlambat
+INV-0230,Corporate,21060000.0,15,Tepat Waktu
+INV-0231,Corporate,44810000.0,45,Tepat Waktu
+INV-0232,Corporate,12270000.0,30,Tepat Waktu
+INV-0233,Corporate,11440000.0,15,Tepat Waktu
+INV-0234,Retail,2530000.0,15,Terlambat
+INV-0235,Retail,32930000.0,45,Tepat Waktu
+INV-0236,Corporate,19060000.0,30,Tepat Waktu
+INV-0237,Retail,43350000.0,45,Tepat Waktu
+INV-0238,Retail,24190000.0,45,Tepat Waktu
+INV-0239,Corporate,48440000.0,45,Tepat Waktu
+INV-0240,Retail,10090000.0,15,Tepat Waktu
+INV-0241,Government,43560000.0,15,Terlambat
+INV-0242,Government,39050000.0,30,Tepat Waktu
+INV-0243,Government,38780000.0,30,Tepat Waktu
+INV-0244,Retail,42390000.0,45,Tepat Waktu
+INV-0245,Retail,38290000.0,45,Tepat Waktu
+INV-0246,Government,31680000.0,45,Tepat Waktu
+INV-0247,Retail,7430000.0,30,Tepat Waktu
+INV-0248,Government,2590000.0,15,Tepat Waktu
+INV-0249,Government,46120000.0,15,Tepat Waktu
+INV-0250,Corporate,31220000.0,45,Terlambat
+INV-0251,Retail,40030000.0,45,Tepat Waktu
+INV-0252,Retail,24590000.0,45,Tepat Waktu
+INV-0253,Corporate,6750000.0,45,Terlambat
+INV-0254,Retail,7130000.0,30,Tepat Waktu
+INV-0255,Retail,34590000.0,15,Terlambat
+INV-0256,Corporate,22080000.0,45,Terlambat
+INV-0257,Government,10830000.0,30,Tepat Waktu
+INV-0258,Corporate,25090000.0,45,Tepat Waktu
+INV-0259,Corporate,4150000.0,45,Terlambat
+INV-0260,Retail,29520000.0,15,Tepat Waktu
+INV-0261,Corporate,14180000.0,45,Tepat Waktu
+INV-0262,Government,40080000.0,15,Tepat Waktu
+INV-0263,Retail,16210000.0,15,Tepat Waktu
+INV-0264,Corporate,23310000.0,15,Terlambat
+INV-0265,Corporate,1570000.0,30,Tepat Waktu
+INV-0266,Corporate,4550000.0,30,Terlambat
+INV-0267,Corporate,20230000.0,15,Tepat Waktu
+INV-0268,Corporate,24520000.0,45,Tepat Waktu
+INV-0269,Retail,30400000.0,15,Tepat Waktu
+INV-0270,Retail,15290000.0,45,Tepat Waktu
+INV-0271,Corporate,35050000.0,15,Terlambat
+INV-0272,Corporate,43150000.0,45,Terlambat
+INV-0273,Corporate,39210000.0,30,Tepat Waktu
+INV-0274,Government,2940000.0,45,Tepat Waktu
+INV-0275,Corporate,24540000.0,15,Tepat Waktu
+INV-0276,Corporate,6140000.0,30,Tepat Waktu
+INV-0277,Corporate,12860000.0,45,Terlambat
+INV-0278,Corporate,49350000.0,45,Terlambat
+INV-0279,Corporate,7980000.0,45,Terlambat
+INV-0280,Corporate,25450000.0,45,Terlambat
+INV-0281,Corporate,31290000.0,45,Tepat Waktu
+INV-0282,Retail,35420000.0,30,Terlambat
+INV-0283,Retail,28420000.0,30,Tepat Waktu
+INV-0284,Retail,1480000.0,30,Tepat Waktu
+INV-0285,Corporate,17000000.0,30,Terlambat
+INV-0286,Retail,26370000.0,15,Tepat Waktu
+INV-0287,Retail,5310000.0,30,Tepat Waktu
+INV-0288,Corporate,18180000.0,45,Tepat Waktu
+INV-0289,Retail,2630000.0,45,Tepat Waktu
+INV-0290,Corporate,4850000.0,30,Tepat Waktu
+INV-0291,Retail,20450000.0,45,Terlambat
+INV-0292,Retail,7500000.0,30,Terlambat
+INV-0293,Corporate,28810000.0,45,Terlambat
+INV-0294,Retail,34780000.0,15,Tepat Waktu
+INV-0295,Retail,40230000.0,15,Tepat Waktu
+INV-0296,Corporate,10810000.0,30,Terlambat
+INV-0297,Corporate,9210000.0,30,Tepat Waktu
+INV-0298,Retail,6120000.0,30,Tepat Waktu
+INV-0299,Corporate,32190000.0,45,Tepat Waktu
+INV-0300,Retail,35620000.0,30,Tepat Waktu
+INV-0301,Retail,2550000.0,15,Tepat Waktu
+INV-0302,Corporate,46870000.0,45,Tepat Waktu
+INV-0303,Corporate,3550000.0,30,Tepat Waktu
+INV-0304,Corporate,27520000.0,45,Terlambat
+INV-0305,Corporate,35740000.0,45,Tepat Waktu
+INV-0306,Government,43680000.0,30,Tepat Waktu
+INV-0307,Corporate,35990000.0,45,Terlambat
+INV-0308,Retail,40280000.0,15,Tepat Waktu
+INV-0309,Corporate,17630000.0,15,Tepat Waktu
+INV-0310,Retail,40930000.0,45,Tepat Waktu
+INV-0311,Retail,4930000.0,30,Tepat Waktu
+INV-0312,Retail,44850000.0,45,Tepat Waktu
+INV-0313,Retail,27830000.0,15,Terlambat
+INV-0314,Government,41050000.0,45,Tepat Waktu
+INV-0315,Corporate,23160000.0,45,Tepat Waktu
+INV-0316,Corporate,32540000.0,15,Terlambat
+INV-0317,Retail,26790000.0,45,Terlambat
+INV-0318,Retail,36850000.0,45,Tepat Waktu
+INV-0319,Retail,5000000.0,30,Tepat Waktu
+INV-0320,Retail,3960000.0,30,Tepat Waktu
+INV-0321,Corporate,13110000.0,15,Tepat Waktu
+INV-0322,Corporate,8820000.0,15,Tepat Waktu
+INV-0323,Corporate,43720000.0,15,Terlambat
+INV-0324,Retail,11740000.0,30,Tepat Waktu
+INV-0325,Government,48820000.0,15,Tepat Waktu
+INV-0326,Corporate,17510000.0,15,Tepat Waktu
+INV-0327,Corporate,9920000.0,15,Terlambat
+INV-0328,Corporate,39700000.0,30,Terlambat
+INV-0329,Retail,33280000.0,45,Tepat Waktu
+INV-0330,Retail,25410000.0,15,Tepat Waktu
+INV-0331,Retail,28210000.0,45,Tepat Waktu
+INV-0332,Corporate,36240000.0,15,Tepat Waktu
+INV-0333,Retail,12190000.0,45,Tepat Waktu
+INV-0334,Retail,49820000.0,30,Terlambat
+INV-0335,Retail,48760000.0,30,Tepat Waktu
+INV-0336,Retail,32870000.0,15,Tepat Waktu
+INV-0337,Corporate,10780000.0,45,Tepat Waktu
+INV-0338,Corporate,34330000.0,30,Tepat Waktu
+INV-0339,Retail,4540000.0,15,Tepat Waktu
+INV-0340,Retail,2500000.0,15,Tepat Waktu
+INV-0341,Retail,13630000.0,30,Tepat Waktu
+INV-0342,Retail,23670000.0,30,Tepat Waktu
+INV-0343,Retail,43550000.0,15,Tepat Waktu
+INV-0344,Retail,36630000.0,45,Tepat Waktu
+INV-0345,Retail,37390000.0,45,Tepat Waktu
+INV-0346,Corporate,21850000.0,45,Tepat Waktu
+INV-0347,Corporate,17950000.0,15,Terlambat
+INV-0348,Retail,19180000.0,30,Tepat Waktu
+INV-0349,Retail,49390000.0,15,Tepat Waktu
+INV-0350,Corporate,2970000.0,30,Terlambat
+INV-0351,Corporate,43480000.0,45,Tepat Waktu
+INV-0352,Corporate,29360000.0,45,Tepat Waktu
+INV-0353,Corporate,22490000.0,30,Tepat Waktu
+INV-0354,Retail,36540000.0,30,Terlambat
+INV-0355,Retail,24850000.0,15,Tepat Waktu
+INV-0356,Corporate,43800000.0,45,Terlambat
+INV-0357,Retail,45130000.0,15,Tepat Waktu
+INV-0358,Corporate,21660000.0,15,Tepat Waktu
+INV-0359,Government,14560000.0,15,Tepat Waktu
+INV-0360,Corporate,30030000.0,45,Terlambat
+INV-0361,Retail,45710000.0,15,Tepat Waktu
+INV-0362,Corporate,11320000.0,15,Tepat Waktu
+INV-0363,Retail,31530000.0,15,Tepat Waktu
+INV-0364,Corporate,31950000.0,15,Tepat Waktu
+INV-0365,Government,36920000.0,15,Terlambat
+INV-0366,Retail,7450000.0,15,Tepat Waktu
+INV-0367,Government,36080000.0,45,Tepat Waktu
+INV-0368,Government,45540000.0,15,Tepat Waktu
+INV-0369,Retail,9800000.0,30,Terlambat
+INV-0370,Retail,12640000.0,15,Tepat Waktu
+INV-0371,Retail,48600000.0,15,Tepat Waktu
+INV-0372,Retail,9870000.0,45,Tepat Waktu
+INV-0373,Retail,42860000.0,45,Tepat Waktu
+INV-0374,Corporate,25120000.0,30,Tepat Waktu
+INV-0375,Retail,13110000.0,30,Tepat Waktu
+INV-0376,Retail,43670000.0,45,Tepat Waktu
+INV-0377,Corporate,22820000.0,45,Tepat Waktu
+INV-0378,Retail,26230000.0,15,Tepat Waktu
+INV-0379,Corporate,18600000.0,45,Tepat Waktu
+INV-0380,Retail,30050000.0,30,Tepat Waktu
+INV-0381,Retail,9010000.0,15,Tepat Waktu
+INV-0382,Corporate,20160000.0,30,Terlambat
+INV-0383,Corporate,48500000.0,15,Terlambat
+INV-0384,Corporate,13650000.0,45,Terlambat
+INV-0385,Corporate,33180000.0,30,Tepat Waktu
+INV-0386,Corporate,16930000.0,15,Tepat Waktu
+INV-0387,Retail,38900000.0,15,Terlambat
+INV-0388,Retail,7410000.0,45,Tepat Waktu
+INV-0389,Corporate,48520000.0,45,Tepat Waktu
+INV-0390,Corporate,23240000.0,45,Tepat Waktu
+INV-0391,Government,12570000.0,30,Tepat Waktu
+INV-0392,Retail,4600000.0,15,Tepat Waktu
+INV-0393,Retail,9320000.0,45,Tepat Waktu
+INV-0394,Corporate,26470000.0,30,Tepat Waktu
+INV-0395,Retail,17510000.0,30,Terlambat
+INV-0396,Government,41620000.0,30,Tepat Waktu
+INV-0397,Corporate,22110000.0,45,Terlambat
+INV-0398,Retail,13190000.0,45,Tepat Waktu
+INV-0399,Corporate,31240000.0,15,Terlambat
+INV-0400,Corporate,35630000.0,15,Tepat Waktu
+INV-0401,Retail,9190000.0,45,Tepat Waktu
+INV-0402,Government,9210000.0,30,Tepat Waktu
+INV-0403,Corporate,2800000.0,30,Terlambat
+INV-0404,Corporate,37080000.0,30,Terlambat
+INV-0405,Retail,33530000.0,15,Tepat Waktu
+INV-0406,Corporate,24260000.0,30,Tepat Waktu
+INV-0407,Retail,42360000.0,15,Terlambat
+INV-0408,Retail,40480000.0,15,Tepat Waktu
+INV-0409,Government,29680000.0,30,Terlambat
+INV-0410,Retail,43550000.0,30,Tepat Waktu
+INV-0411,Retail,11090000.0,45,Tepat Waktu
+INV-0412,Government,6480000.0,45,Tepat Waktu
+INV-0413,Government,14220000.0,30,Tepat Waktu
+INV-0414,Corporate,3800000.0,15,Tepat Waktu
+INV-0415,Corporate,27030000.0,15,Tepat Waktu
+INV-0416,Retail,46890000.0,15,Tepat Waktu
+INV-0417,Retail,2930000.0,15,Tepat Waktu
+INV-0418,Retail,6980000.0,15,Tepat Waktu
+INV-0419,Corporate,23160000.0,45,Terlambat
+INV-0420,Corporate,46760000.0,30,Tepat Waktu
+INV-0421,Corporate,16490000.0,45,Terlambat
+INV-0422,Corporate,25850000.0,15,Tepat Waktu
+INV-0423,Retail,3040000.0,15,Tepat Waktu
+INV-0424,Retail,8270000.0,15,Terlambat
+INV-0425,Retail,49340000.0,15,Tepat Waktu
+INV-0426,Corporate,48290000.0,30,Tepat Waktu
+INV-0427,Retail,1240000.0,15,Tepat Waktu
+INV-0428,Corporate,47640000.0,30,Tepat Waktu
+INV-0429,Retail,32320000.0,15,Tepat Waktu
+INV-0430,Retail,43530000.0,30,Terlambat
+INV-0431,Retail,23280000.0,45,Tepat Waktu
+INV-0432,Corporate,26260000.0,15,Tepat Waktu
+INV-0433,Corporate,24950000.0,30,Tepat Waktu
+INV-0434,Retail,33680000.0,45,Tepat Waktu
+INV-0435,Retail,7840000.0,15,Tepat Waktu
+INV-0436,Corporate,2470000.0,15,Tepat Waktu
+INV-0437,Retail,16090000.0,15,Tepat Waktu
+INV-0438,Corporate,35530000.0,30,Terlambat
+INV-0439,Corporate,10890000.0,30,Tepat Waktu
+INV-0440,Retail,34000000.0,45,Tepat Waktu
+INV-0441,Retail,48530000.0,30,Tepat Waktu
+INV-0442,Government,5600000.0,30,Tepat Waktu
+INV-0443,Retail,33960000.0,15,Terlambat
+INV-0444,Retail,22740000.0,15,Tepat Waktu
+INV-0445,Corporate,43540000.0,15,Tepat Waktu
+INV-0446,Government,9680000.0,15,Tepat Waktu
+INV-0447,Government,34940000.0,15,Tepat Waktu
+INV-0448,Corporate,42070000.0,15,Tepat Waktu
+INV-0449,Retail,47290000.0,15,Tepat Waktu
+INV-0450,Retail,34480000.0,45,Tepat Waktu
+INV-0451,Corporate,25360000.0,45,Tepat Waktu
+INV-0452,Corporate,31270000.0,45,Terlambat
+INV-0453,Retail,43580000.0,45,Tepat Waktu
+INV-0454,Government,28960000.0,15,Tepat Waktu
+INV-0455,Retail,2490000.0,45,Tepat Waktu
+INV-0456,Retail,46620000.0,15,Terlambat
+INV-0457,Retail,34790000.0,45,Tepat Waktu
+INV-0458,Retail,34150000.0,30,Tepat Waktu
+INV-0459,Retail,11570000.0,45,Tepat Waktu
+INV-0460,Retail,33290000.0,45,Terlambat
+INV-0461,Retail,20300000.0,15,Tepat Waktu
+INV-0462,Corporate,32910000.0,45,Tepat Waktu
+INV-0463,Corporate,6220000.0,30,Terlambat
+INV-0464,Corporate,33230000.0,15,Terlambat
+INV-0465,Government,49970000.0,15,Tepat Waktu
+INV-0466,Retail,3360000.0,45,Tepat Waktu
+INV-0467,Retail,48880000.0,15,Tepat Waktu
+INV-0468,Corporate,20940000.0,15,Tepat Waktu
+INV-0469,Retail,43670000.0,15,Terlambat
+INV-0470,Government,39340000.0,15,Tepat Waktu
+INV-0471,Retail,28780000.0,15,Tepat Waktu
+INV-0472,Government,37180000.0,15,Tepat Waktu
+INV-0473,Retail,44050000.0,30,Tepat Waktu
+INV-0474,Corporate,20800000.0,45,Terlambat
+INV-0475,Corporate,17020000.0,30,Terlambat
+INV-0476,Government,33710000.0,15,Tepat Waktu
+INV-0477,Retail,40580000.0,15,Tepat Waktu
+INV-0478,Corporate,38350000.0,45,Terlambat
+INV-0479,Government,40090000.0,30,Tepat Waktu
+INV-0480,Corporate,22340000.0,45,Terlambat
+INV-0481,Corporate,41070000.0,30,Tepat Waktu
+INV-0482,Corporate,6890000.0,15,Tepat Waktu
+INV-0483,Retail,27680000.0,45,Tepat Waktu
+INV-0484,Corporate,1280000.0,45,Terlambat
+INV-0485,Corporate,16900000.0,15,Tepat Waktu
+INV-0486,Government,18960000.0,45,Tepat Waktu
+INV-0487,Retail,20410000.0,30,Tepat Waktu
+INV-0488,Retail,35080000.0,30,Tepat Waktu
+INV-0489,Government,20040000.0,30,Tepat Waktu
+INV-0490,Corporate,22990000.0,30,Tepat Waktu
+INV-0491,Retail,12640000.0,15,Tepat Waktu
+INV-0492,Corporate,19290000.0,45,Tepat Waktu
+INV-0493,Retail,12140000.0,30,Tepat Waktu
+INV-0494,Retail,4590000.0,15,Terlambat
+INV-0495,Retail,30570000.0,45,Tepat Waktu
+INV-0496,Retail,33740000.0,45,Tepat Waktu
+INV-0497,Corporate,31360000.0,15,Tepat Waktu
+INV-0498,Retail,23710000.0,15,Tepat Waktu
+INV-0499,Government,19610000.0,30,Tepat Waktu
+INV-0500,Government,43300000.0,45,Tepat Waktu
+INV-0501,Corporate,26440000.0,45,Tepat Waktu
+INV-0502,Corporate,24480000.0,15,Tepat Waktu
+INV-0503,Retail,2260000.0,45,Tepat Waktu
+INV-0504,Corporate,17720000.0,30,Terlambat
+INV-0505,Corporate,19630000.0,45,Terlambat
+INV-0506,Retail,20540000.0,15,Tepat Waktu
+INV-0507,Government,29430000.0,15,Tepat Waktu
+INV-0508,Corporate,27150000.0,30,Tepat Waktu
+INV-0509,Government,30790000.0,30,Tepat Waktu
+INV-0510,Corporate,38480000.0,45,Tepat Waktu
+INV-0511,Corporate,40840000.0,45,Tepat Waktu
+INV-0512,Retail,36190000.0,15,Tepat Waktu
+INV-0513,Government,47820000.0,30,Tepat Waktu
+INV-0514,Corporate,1890000.0,30,Tepat Waktu
+INV-0515,Retail,10590000.0,30,Tepat Waktu
+INV-0516,Retail,1370000.0,45,Tepat Waktu
+INV-0517,Retail,32730000.0,30,Tepat Waktu
+INV-0518,Corporate,45000000.0,15,Tepat Waktu
+INV-0519,Government,12930000.0,15,Terlambat
+INV-0520,Retail,46420000.0,45,Terlambat
+INV-0521,Corporate,3950000.0,45,Tepat Waktu
+INV-0522,Retail,46790000.0,30,Tepat Waktu
+INV-0523,Government,18230000.0,45,Tepat Waktu
+INV-0524,Corporate,5970000.0,15,Terlambat
+INV-0525,Corporate,24810000.0,30,Terlambat
+INV-0526,Retail,13580000.0,15,Tepat Waktu
+INV-0527,Retail,14960000.0,30,Tepat Waktu
+INV-0528,Retail,16060000.0,45,Tepat Waktu
+INV-0529,Retail,40350000.0,30,Tepat Waktu
+INV-0530,Corporate,27420000.0,30,Tepat Waktu
+INV-0531,Corporate,16250000.0,15,Terlambat
+INV-0532,Government,30910000.0,15,Tepat Waktu
+INV-0533,Government,36090000.0,30,Tepat Waktu
+INV-0534,Corporate,14360000.0,45,Terlambat
+INV-0535,Corporate,21260000.0,45,Terlambat
+INV-0536,Government,6970000.0,15,Tepat Waktu
+INV-0537,Corporate,9880000.0,45,Terlambat
+INV-0538,Retail,34370000.0,15,Tepat Waktu
+INV-0539,Retail,9890000.0,45,Tepat Waktu
+INV-0540,Retail,26730000.0,30,Tepat Waktu
+INV-0541,Government,35740000.0,15,Tepat Waktu
+INV-0542,Corporate,6240000.0,15,Tepat Waktu
+INV-0543,Retail,28800000.0,30,Tepat Waktu
+INV-0544,Corporate,13570000.0,15,Tepat Waktu
+INV-0545,Corporate,48180000.0,45,Tepat Waktu
+INV-0546,Retail,24690000.0,45,Tepat Waktu
+INV-0547,Retail,40490000.0,15,Tepat Waktu
+INV-0548,Corporate,27960000.0,45,Tepat Waktu
+INV-0549,Corporate,3130000.0,15,Tepat Waktu
+INV-0550,Corporate,32020000.0,30,Tepat Waktu
+INV-0551,Corporate,47620000.0,15,Tepat Waktu
+INV-0552,Corporate,30480000.0,30,Tepat Waktu
+INV-0553,Corporate,41140000.0,45,Terlambat
+INV-0554,Corporate,44330000.0,30,Tepat Waktu
+INV-0555,Corporate,12180000.0,45,Tepat Waktu
+INV-0556,Retail,11390000.0,15,Tepat Waktu
+INV-0557,Retail,30940000.0,45,Tepat Waktu
+INV-0558,Retail,21140000.0,15,Tepat Waktu
+INV-0559,Corporate,42150000.0,15,Terlambat
+INV-0560,Corporate,45100000.0,30,Tepat Waktu
+INV-0561,Corporate,18320000.0,30,Tepat Waktu
+INV-0562,Retail,12610000.0,30,Tepat Waktu
+INV-0563,Retail,39250000.0,30,Tepat Waktu
+INV-0564,Retail,14470000.0,45,Tepat Waktu
+INV-0565,Retail,41310000.0,45,Terlambat
+INV-0566,Corporate,21760000.0,45,Terlambat
+INV-0567,Retail,33710000.0,15,Tepat Waktu
+INV-0568,Retail,5680000.0,45,Tepat Waktu
+INV-0569,Government,31570000.0,45,Tepat Waktu
+INV-0570,Retail,23140000.0,45,Tepat Waktu
+INV-0571,Corporate,29740000.0,30,Terlambat
+INV-0572,Corporate,9230000.0,45,Terlambat
+INV-0573,Retail,37110000.0,15,Tepat Waktu
+INV-0574,Corporate,43280000.0,30,Tepat Waktu
+INV-0575,Corporate,11620000.0,15,Tepat Waktu
+INV-0576,Government,5690000.0,45,Terlambat
+INV-0577,Retail,2160000.0,30,Tepat Waktu
+INV-0578,Government,32460000.0,15,Tepat Waktu
+INV-0579,Retail,30750000.0,45,Tepat Waktu
+INV-0580,Retail,27790000.0,15,Tepat Waktu
+INV-0581,Retail,12370000.0,15,Tepat Waktu
+INV-0582,Government,20150000.0,15,Tepat Waktu
+INV-0583,Retail,30130000.0,45,Tepat Waktu
+INV-0584,Retail,25340000.0,45,Tepat Waktu
+INV-0585,Corporate,49400000.0,15,Tepat Waktu
+INV-0586,Retail,7690000.0,30,Tepat Waktu
+INV-0587,Retail,35060000.0,30,Terlambat
+INV-0588,Retail,20810000.0,45,Tepat Waktu
+INV-0589,Retail,21980000.0,45,Tepat Waktu
+INV-0590,Retail,36160000.0,45,Tepat Waktu
+INV-0591,Retail,34930000.0,45,Tepat Waktu
+INV-0592,Corporate,49570000.0,45,Terlambat
+INV-0593,Retail,7290000.0,30,Tepat Waktu
+INV-0594,Retail,6100000.0,45,Tepat Waktu
+INV-0595,Corporate,36490000.0,15,Tepat Waktu
+INV-0596,Retail,29340000.0,15,Tepat Waktu
+INV-0597,Corporate,14430000.0,30,Terlambat
+INV-0598,Retail,4890000.0,15,Tepat Waktu
+INV-0599,Retail,5200000.0,30,Tepat Waktu
+INV-0600,Retail,44820000.0,30,Tepat Waktu
+INV-0601,Retail,10400000.0,15,Tepat Waktu
+INV-0602,Retail,16850000.0,45,Tepat Waktu
+INV-0603,Retail,12110000.0,15,Tepat Waktu
+INV-0604,Retail,18390000.0,15,Tepat Waktu
+INV-0605,Retail,4400000.0,30,Tepat Waktu
+INV-0606,Retail,26430000.0,15,Tepat Waktu
+INV-0607,Retail,4310000.0,30,Tepat Waktu
+INV-0608,Retail,40220000.0,45,Tepat Waktu
+INV-0609,Corporate,12450000.0,45,Tepat Waktu
+INV-0610,Corporate,27460000.0,45,Terlambat
+INV-0611,Retail,44120000.0,15,Terlambat
+INV-0612,Corporate,32890000.0,30,Tepat Waktu
+INV-0613,Corporate,27110000.0,45,Tepat Waktu
+INV-0614,Retail,16890000.0,30,Tepat Waktu
+INV-0615,Corporate,17320000.0,30,Terlambat
+INV-0616,Government,33800000.0,45,Terlambat
+INV-0617,Retail,49710000.0,45,Tepat Waktu
+INV-0618,Retail,33430000.0,30,Tepat Waktu
+INV-0619,Corporate,28330000.0,45,Terlambat
+INV-0620,Corporate,36800000.0,30,Tepat Waktu
+INV-0621,Retail,23800000.0,30,Tepat Waktu
+INV-0622,Retail,3950000.0,45,Terlambat
+INV-0623,Retail,28550000.0,15,Tepat Waktu
+INV-0624,Retail,47920000.0,45,Tepat Waktu
+INV-0625,Corporate,9590000.0,15,Tepat Waktu
+INV-0626,Retail,34810000.0,30,Tepat Waktu
+INV-0627,Retail,10850000.0,30,Tepat Waktu
+INV-0628,Corporate,27260000.0,15,Tepat Waktu
+INV-0629,Retail,5740000.0,30,Terlambat
+INV-0630,Retail,23070000.0,15,Tepat Waktu
+INV-0631,Corporate,38050000.0,15,Tepat Waktu
+INV-0632,Corporate,18030000.0,30,Tepat Waktu
+INV-0633,Corporate,33580000.0,15,Tepat Waktu
+INV-0634,Corporate,39980000.0,45,Tepat Waktu
+INV-0635,Retail,46430000.0,45,Tepat Waktu
+INV-0636,Retail,12500000.0,30,Tepat Waktu
+INV-0637,Corporate,20570000.0,30,Tepat Waktu
+INV-0638,Retail,8470000.0,15,Tepat Waktu
+INV-0639,Retail,49630000.0,15,Tepat Waktu
+INV-0640,Retail,46420000.0,15,Tepat Waktu
+INV-0641,Retail,27460000.0,15,Tepat Waktu
+INV-0642,Retail,42260000.0,45,Tepat Waktu
+INV-0643,Retail,26530000.0,45,Tepat Waktu
+INV-0644,Retail,31560000.0,30,Tepat Waktu
+INV-0645,Retail,5370000.0,15,Tepat Waktu
+INV-0646,Corporate,38010000.0,15,Terlambat
+INV-0647,Corporate,7260000.0,30,Terlambat
+INV-0648,Corporate,41480000.0,15,Tepat Waktu
+INV-0649,Corporate,39320000.0,15,Tepat Waktu
+INV-0650,Retail,35730000.0,15,Tepat Waktu
+INV-0651,Retail,2770000.0,15,Tepat Waktu
+INV-0652,Corporate,15850000.0,15,Terlambat
+INV-0653,Corporate,13890000.0,30,Terlambat
+INV-0654,Corporate,18650000.0,15,Terlambat
+INV-0655,Retail,5290000.0,30,Tepat Waktu
+INV-0656,Retail,46910000.0,15,Tepat Waktu
+INV-0657,Retail,28140000.0,45,Tepat Waktu
+INV-0658,Retail,15970000.0,45,Tepat Waktu
+INV-0659,Corporate,20450000.0,45,Terlambat
+INV-0660,Corporate,22910000.0,45,Tepat Waktu
+INV-0661,Retail,30430000.0,30,Tepat Waktu
+INV-0662,Government,26270000.0,30,Terlambat
+INV-0663,Corporate,46050000.0,15,Terlambat
+INV-0664,Retail,25350000.0,45,Terlambat
+INV-0665,Retail,49620000.0,30,Tepat Waktu
+INV-0666,Retail,42720000.0,15,Tepat Waktu
+INV-0667,Retail,11220000.0,15,Tepat Waktu
+INV-0668,Retail,46600000.0,30,Terlambat
+INV-0669,Retail,6700000.0,45,Tepat Waktu
+INV-0670,Retail,41060000.0,15,Tepat Waktu
+INV-0671,Retail,19650000.0,45,Tepat Waktu
+INV-0672,Corporate,44020000.0,45,Tepat Waktu
+INV-0673,Retail,43530000.0,45,Tepat Waktu
+INV-0674,Corporate,40490000.0,15,Tepat Waktu
+INV-0675,Retail,39710000.0,45,Tepat Waktu
+INV-0676,Government,15930000.0,15,Tepat Waktu
+INV-0677,Retail,4970000.0,45,Tepat Waktu
+INV-0678,Retail,20750000.0,15,Tepat Waktu
+INV-0679,Government,9500000.0,45,Tepat Waktu
+INV-0680,Corporate,35050000.0,30,Terlambat
+INV-0681,Corporate,17960000.0,45,Tepat Waktu
+INV-0682,Retail,48800000.0,45,Tepat Waktu
+INV-0683,Retail,32410000.0,15,Tepat Waktu
+INV-0684,Corporate,41300000.0,15,Terlambat
+INV-0685,Government,7490000.0,45,Tepat Waktu
+INV-0686,Corporate,43240000.0,30,Terlambat
+INV-0687,Corporate,46220000.0,30,Terlambat
+INV-0688,Retail,24870000.0,15,Tepat Waktu
+INV-0689,Corporate,30710000.0,30,Tepat Waktu
+INV-0690,Retail,38480000.0,45,Tepat Waktu
+INV-0691,Retail,9570000.0,15,Tepat Waktu
+INV-0692,Retail,25630000.0,45,Terlambat
+INV-0693,Corporate,20530000.0,15,Terlambat
+INV-0694,Retail,8170000.0,15,Tepat Waktu
+INV-0695,Retail,19010000.0,15,Tepat Waktu
+INV-0696,Corporate,4340000.0,15,Tepat Waktu
+INV-0697,Retail,2260000.0,30,Tepat Waktu
+INV-0698,Corporate,7620000.0,45,Tepat Waktu
+INV-0699,Retail,48190000.0,45,Tepat Waktu
+INV-0700,Retail,27930000.0,45,Tepat Waktu
+INV-0701,Corporate,48330000.0,15,Terlambat
+INV-0702,Retail,22190000.0,30,Tepat Waktu
+INV-0703,Retail,16280000.0,45,Tepat Waktu
+INV-0704,Retail,25800000.0,30,Tepat Waktu
+INV-0705,Retail,22540000.0,15,Tepat Waktu
+INV-0706,Government,6180000.0,45,Tepat Waktu
+INV-0707,Retail,32400000.0,30,Tepat Waktu
+INV-0708,Corporate,11590000.0,15,Tepat Waktu
+INV-0709,Retail,31360000.0,30,Tepat Waktu
+INV-0710,Corporate,32860000.0,45,Tepat Waktu
+INV-0711,Corporate,8450000.0,45,Tepat Waktu
+INV-0712,Corporate,4010000.0,15,Tepat Waktu
+INV-0713,Retail,39260000.0,15,Terlambat
+INV-0714,Retail,23530000.0,15,Tepat Waktu
+INV-0715,Retail,3850000.0,30,Tepat Waktu
+INV-0716,Government,49750000.0,30,Tepat Waktu
+INV-0717,Corporate,3830000.0,30,Terlambat
+INV-0718,Government,35060000.0,15,Tepat Waktu
+INV-0719,Retail,49200000.0,45,Terlambat
+INV-0720,Corporate,12720000.0,45,Terlambat
+INV-0721,Government,7970000.0,30,Tepat Waktu
+INV-0722,Retail,6950000.0,30,Terlambat
+INV-0723,Retail,15860000.0,45,Terlambat
+INV-0724,Corporate,5950000.0,45,Terlambat
+INV-0725,Corporate,34920000.0,30,Terlambat
+INV-0726,Corporate,4050000.0,30,Tepat Waktu
+INV-0727,Retail,25960000.0,45,Tepat Waktu
+INV-0728,Corporate,49840000.0,15,Tepat Waktu
+INV-0729,Retail,40880000.0,30,Tepat Waktu
+INV-0730,Retail,31150000.0,45,Terlambat
+INV-0731,Retail,16010000.0,45,Tepat Waktu
+INV-0732,Corporate,31570000.0,45,Terlambat
+INV-0733,Corporate,26830000.0,45,Terlambat
+INV-0734,Corporate,21880000.0,15,Terlambat
+INV-0735,Retail,7400000.0,45,Terlambat
+INV-0736,Corporate,44440000.0,30,Tepat Waktu
+INV-0737,Retail,23040000.0,15,Tepat Waktu
+INV-0738,Corporate,10540000.0,45,Tepat Waktu
+INV-0739,Retail,19020000.0,15,Tepat Waktu
+INV-0740,Retail,21290000.0,30,Tepat Waktu
+INV-0741,Retail,41550000.0,45,Tepat Waktu
+INV-0742,Retail,36950000.0,30,Tepat Waktu
+INV-0743,Corporate,38700000.0,45,Tepat Waktu
+INV-0744,Corporate,1540000.0,45,Tepat Waktu
+INV-0745,Retail,21390000.0,45,Tepat Waktu
+INV-0746,Corporate,24590000.0,45,Tepat Waktu
+INV-0747,Retail,1940000.0,45,Tepat Waktu
+INV-0748,Corporate,13730000.0,15,Terlambat
+INV-0749,Government,38250000.0,45,Tepat Waktu
+INV-0750,Corporate,7720000.0,45,Terlambat
+INV-0751,Retail,27230000.0,15,Tepat Waktu
+INV-0752,Government,11540000.0,15,Tepat Waktu
+INV-0753,Corporate,1590000.0,15,Terlambat
+INV-0754,Retail,12820000.0,15,Tepat Waktu
+INV-0755,Retail,48820000.0,15,Tepat Waktu
+INV-0756,Corporate,40280000.0,15,Terlambat
+INV-0757,Corporate,48020000.0,45,Tepat Waktu
+INV-0758,Corporate,24900000.0,45,Tepat Waktu
+INV-0759,Corporate,6380000.0,30,Terlambat
+INV-0760,Corporate,27850000.0,45,Terlambat
+INV-0761,Retail,23260000.0,45,Tepat Waktu
+INV-0762,Retail,42370000.0,15,Tepat Waktu
+INV-0763,Retail,5810000.0,15,Tepat Waktu
+INV-0764,Corporate,24920000.0,45,Tepat Waktu
+INV-0765,Retail,8350000.0,30,Tepat Waktu
+INV-0766,Corporate,16910000.0,15,Terlambat
+INV-0767,Corporate,37130000.0,45,Terlambat
+INV-0768,Corporate,24320000.0,45,Tepat Waktu
+INV-0769,Retail,19420000.0,30,Tepat Waktu
+INV-0770,Corporate,20330000.0,30,Tepat Waktu
+INV-0771,Retail,23510000.0,15,Terlambat
+INV-0772,Corporate,39470000.0,30,Terlambat
+INV-0773,Retail,44710000.0,45,Tepat Waktu
+INV-0774,Retail,47810000.0,45,Tepat Waktu
+INV-0775,Corporate,39560000.0,30,Terlambat
+INV-0776,Retail,16450000.0,30,Tepat Waktu
+INV-0777,Retail,34720000.0,30,Tepat Waktu
+INV-0778,Corporate,22440000.0,30,Tepat Waktu
+INV-0779,Corporate,13480000.0,15,Terlambat
+INV-0780,Corporate,42200000.0,30,Terlambat
+INV-0781,Corporate,2880000.0,15,Tepat Waktu
+INV-0782,Corporate,45190000.0,45,Terlambat
+INV-0783,Retail,23610000.0,30,Tepat Waktu
+INV-0784,Retail,32220000.0,15,Tepat Waktu
+INV-0785,Retail,33310000.0,30,Tepat Waktu
+INV-0786,Government,44860000.0,45,Tepat Waktu
+INV-0787,Corporate,32200000.0,45,Terlambat
+INV-0788,Retail,31080000.0,45,Tepat Waktu
+INV-0789,Retail,4270000.0,30,Tepat Waktu
+INV-0790,Government,26400000.0,30,Tepat Waktu
+INV-0791,Retail,8360000.0,15,Tepat Waktu
+INV-0792,Corporate,37130000.0,45,Tepat Waktu
+INV-0793,Corporate,26100000.0,30,Terlambat
+INV-0794,Corporate,34330000.0,45,Tepat Waktu
+INV-0795,Retail,3040000.0,45,Tepat Waktu
+INV-0796,Corporate,5150000.0,15,Terlambat
+INV-0797,Government,36100000.0,15,Tepat Waktu
+INV-0798,Corporate,4530000.0,15,Tepat Waktu
+INV-0799,Corporate,4490000.0,15,Terlambat
+INV-0800,Government,1590000.0,45,Tepat Waktu
+INV-0801,Corporate,47870000.0,15,Terlambat
+INV-0802,Retail,37140000.0,15,Tepat Waktu
+INV-0803,Corporate,18310000.0,15,Terlambat
+INV-0804,Corporate,15530000.0,15,Terlambat
+INV-0805,Retail,18140000.0,45,Tepat Waktu
+INV-0806,Corporate,38960000.0,15,Tepat Waktu
+INV-0807,Government,33410000.0,45,Tepat Waktu
+INV-0808,Government,10070000.0,30,Tepat Waktu
+INV-0809,Retail,9530000.0,45,Tepat Waktu
+INV-0810,Retail,5820000.0,45,Tepat Waktu
+INV-0811,Government,33350000.0,15,Terlambat
+INV-0812,Corporate,38450000.0,30,Tepat Waktu
+INV-0813,Retail,13990000.0,30,Tepat Waktu
+INV-0814,Government,2030000.0,30,Tepat Waktu
+INV-0815,Corporate,5030000.0,30,Tepat Waktu
+INV-0816,Corporate,48430000.0,45,Tepat Waktu
+INV-0817,Corporate,15480000.0,30,Tepat Waktu
+INV-0818,Retail,38690000.0,45,Tepat Waktu
+INV-0819,Retail,31610000.0,45,Tepat Waktu
+INV-0820,Retail,19720000.0,45,Terlambat
+INV-0821,Corporate,11080000.0,30,Terlambat
+INV-0822,Retail,6950000.0,15,Tepat Waktu
+INV-0823,Retail,31140000.0,15,Tepat Waktu
+INV-0824,Retail,38960000.0,30,Terlambat
+INV-0825,Corporate,32550000.0,15,Terlambat
+INV-0826,Government,26980000.0,15,Tepat Waktu
+INV-0827,Retail,3060000.0,45,Tepat Waktu
+INV-0828,Retail,48460000.0,45,Tepat Waktu
+INV-0829,Corporate,40140000.0,30,Terlambat
+INV-0830,Retail,15350000.0,30,Terlambat
+INV-0831,Retail,49020000.0,15,Tepat Waktu
+INV-0832,Retail,30490000.0,45,Terlambat
+INV-0833,Retail,29540000.0,30,Tepat Waktu
+INV-0834,Retail,37660000.0,30,Terlambat
+INV-0835,Retail,40780000.0,30,Tepat Waktu
+INV-0836,Retail,33170000.0,30,Tepat Waktu
+INV-0837,Government,7280000.0,30,Tepat Waktu
+INV-0838,Retail,17580000.0,30,Tepat Waktu
+INV-0839,Corporate,46480000.0,15,Tepat Waktu
+INV-0840,Corporate,12010000.0,45,Terlambat
+INV-0841,Retail,19240000.0,45,Tepat Waktu
+INV-0842,Corporate,22170000.0,30,Terlambat
+INV-0843,Retail,22530000.0,45,Terlambat
+INV-0844,Government,31030000.0,45,Tepat Waktu
+INV-0845,Retail,47210000.0,45,Tepat Waktu
+INV-0846,Retail,12790000.0,30,Tepat Waktu
+INV-0847,Retail,6950000.0,30,Tepat Waktu
+INV-0848,Government,10680000.0,45,Tepat Waktu
+INV-0849,Corporate,44460000.0,45,Tepat Waktu
+INV-0850,Corporate,32640000.0,30,Tepat Waktu
+INV-0851,Retail,15010000.0,15,Tepat Waktu
+INV-0852,Corporate,40980000.0,45,Tepat Waktu
+INV-0853,Retail,43210000.0,15,Tepat Waktu
+INV-0854,Corporate,42480000.0,45,Terlambat
+INV-0855,Retail,46030000.0,15,Tepat Waktu
+INV-0856,Retail,13360000.0,15,Terlambat
+INV-0857,Retail,38000000.0,15,Tepat Waktu
+INV-0858,Retail,23570000.0,30,Tepat Waktu
+INV-0859,Corporate,42260000.0,15,Terlambat
+INV-0860,Retail,36700000.0,15,Tepat Waktu
+INV-0861,Corporate,39050000.0,15,Tepat Waktu
+INV-0862,Retail,33150000.0,45,Tepat Waktu
+INV-0863,Corporate,9690000.0,15,Tepat Waktu
+INV-0864,Retail,27710000.0,45,Tepat Waktu
+INV-0865,Retail,49250000.0,15,Tepat Waktu
+INV-0866,Corporate,46930000.0,15,Terlambat
+INV-0867,Retail,3120000.0,30,Tepat Waktu
+INV-0868,Retail,9080000.0,45,Tepat Waktu
+INV-0869,Corporate,7450000.0,15,Terlambat
+INV-0870,Government,36570000.0,45,Tepat Waktu
+INV-0871,Retail,41070000.0,45,Tepat Waktu
+INV-0872,Retail,11460000.0,30,Terlambat
+INV-0873,Corporate,25790000.0,30,Tepat Waktu
+INV-0874,Retail,42190000.0,30,Tepat Waktu
+INV-0875,Retail,36910000.0,30,Tepat Waktu
+INV-0876,Retail,27570000.0,30,Tepat Waktu
+INV-0877,Corporate,29930000.0,30,Tepat Waktu
+INV-0878,Corporate,25910000.0,30,Terlambat
+INV-0879,Retail,15580000.0,30,Tepat Waktu
+INV-0880,Retail,28690000.0,15,Tepat Waktu
+INV-0881,Retail,34760000.0,45,Tepat Waktu
+INV-0882,Corporate,43790000.0,30,Tepat Waktu
+INV-0883,Retail,32180000.0,30,Tepat Waktu
+INV-0884,Retail,38290000.0,45,Tepat Waktu
+INV-0885,Corporate,8840000.0,15,Tepat Waktu
+INV-0886,Retail,23620000.0,45,Tepat Waktu
+INV-0887,Corporate,1460000.0,45,Tepat Waktu
+INV-0888,Retail,13090000.0,30,Tepat Waktu
+INV-0889,Retail,36600000.0,45,Tepat Waktu
+INV-0890,Retail,49600000.0,45,Tepat Waktu
+INV-0891,Corporate,5860000.0,30,Tepat Waktu
+INV-0892,Corporate,20670000.0,30,Tepat Waktu
+INV-0893,Corporate,40200000.0,30,Terlambat
+INV-0894,Retail,11000000.0,30,Tepat Waktu
+INV-0895,Corporate,28200000.0,45,Terlambat
+INV-0896,Retail,36920000.0,45,Tepat Waktu
+INV-0897,Retail,31180000.0,15,Terlambat
+INV-0898,Corporate,10210000.0,15,Tepat Waktu
+INV-0899,Retail,18410000.0,45,Tepat Waktu
+INV-0900,Retail,39410000.0,15,Tepat Waktu
+INV-0901,Retail,28160000.0,45,Terlambat
+INV-0902,Retail,1260000.0,15,Terlambat
+INV-0903,Retail,38290000.0,30,Tepat Waktu
+INV-0904,Corporate,2730000.0,15,Tepat Waktu
+INV-0905,Retail,37540000.0,30,Tepat Waktu
+INV-0906,Corporate,10920000.0,30,Terlambat
+INV-0907,Corporate,47950000.0,30,Tepat Waktu
+INV-0908,Retail,19030000.0,30,Tepat Waktu
+INV-0909,Retail,17020000.0,15,Tepat Waktu
+INV-0910,Retail,8300000.0,45,Tepat Waktu
+INV-0911,Corporate,15970000.0,30,Terlambat
+INV-0912,Retail,43960000.0,15,Tepat Waktu
+INV-0913,Corporate,49820000.0,30,Tepat Waktu
+INV-0914,Retail,19050000.0,15,Tepat Waktu
+INV-0915,Corporate,22980000.0,15,Terlambat
+INV-0916,Retail,36380000.0,15,Tepat Waktu
+INV-0917,Retail,44420000.0,45,Tepat Waktu
+INV-0918,Government,30060000.0,15,Terlambat
+INV-0919,Corporate,20180000.0,15,Tepat Waktu
+INV-0920,Retail,21220000.0,45,Tepat Waktu
+INV-0921,Corporate,35090000.0,45,Tepat Waktu
+INV-0922,Retail,1160000.0,15,Tepat Waktu
+INV-0923,Corporate,31360000.0,45,Terlambat
+INV-0924,Corporate,18420000.0,30,Tepat Waktu
+INV-0925,Retail,39920000.0,30,Tepat Waktu
+INV-0926,Retail,5560000.0,45,Tepat Waktu
+INV-0927,Retail,29820000.0,45,Tepat Waktu
+INV-0928,Corporate,24570000.0,15,Tepat Waktu
+INV-0929,Corporate,32470000.0,45,Tepat Waktu
+INV-0930,Retail,4180000.0,15,Tepat Waktu
+INV-0931,Retail,29420000.0,30,Tepat Waktu
+INV-0932,Corporate,28510000.0,45,Tepat Waktu
+INV-0933,Government,28470000.0,15,Tepat Waktu
+INV-0934,Corporate,30570000.0,15,Terlambat
+INV-0935,Retail,34150000.0,30,Tepat Waktu
+INV-0936,Retail,40440000.0,45,Terlambat
+INV-0937,Retail,14220000.0,30,Terlambat
+INV-0938,Government,41430000.0,15,Tepat Waktu
+INV-0939,Retail,25410000.0,15,Tepat Waktu
+INV-0940,Corporate,4780000.0,45,Tepat Waktu
+INV-0941,Retail,3870000.0,15,Tepat Waktu
+INV-0942,Corporate,17380000.0,45,Tepat Waktu
+INV-0943,Corporate,39460000.0,30,Tepat Waktu
+INV-0944,Corporate,35680000.0,45,Tepat Waktu
+INV-0945,Retail,39640000.0,45,Tepat Waktu
+INV-0946,Retail,26350000.0,15,Tepat Waktu
+INV-0947,Retail,22570000.0,15,Tepat Waktu
+INV-0948,Government,8230000.0,45,Tepat Waktu
+INV-0949,Corporate,17080000.0,15,Tepat Waktu
+INV-0950,Corporate,22270000.0,15,Tepat Waktu
+INV-0951,Corporate,5340000.0,15,Terlambat
+INV-0952,Corporate,11810000.0,45,Tepat Waktu
+INV-0953,Retail,30310000.0,15,Tepat Waktu
+INV-0954,Government,37050000.0,45,Tepat Waktu
+INV-0955,Retail,49920000.0,15,Terlambat
+INV-0956,Retail,46720000.0,30,Tepat Waktu
+INV-0957,Corporate,32490000.0,15,Terlambat
+INV-0958,Retail,21640000.0,15,Tepat Waktu
+INV-0959,Retail,32170000.0,45,Tepat Waktu
+INV-0960,Corporate,39500000.0,45,Tepat Waktu
+INV-0961,Retail,6800000.0,15,Tepat Waktu
+INV-0962,Corporate,21090000.0,30,Tepat Waktu
+INV-0963,Retail,42150000.0,15,Tepat Waktu
+INV-0964,Retail,19810000.0,15,Terlambat
+INV-0965,Retail,29020000.0,30,Tepat Waktu
+INV-0966,Retail,29800000.0,45,Tepat Waktu
+INV-0967,Corporate,10040000.0,15,Tepat Waktu
+INV-0968,Retail,18750000.0,45,Tepat Waktu
+INV-0969,Corporate,17390000.0,45,Terlambat
+INV-0970,Retail,2280000.0,30,Tepat Waktu
+INV-0971,Corporate,2190000.0,30,Tepat Waktu
+INV-0972,Government,41750000.0,45,Tepat Waktu
+INV-0973,Corporate,14380000.0,15,Tepat Waktu
+INV-0974,Retail,26390000.0,45,Tepat Waktu
+INV-0975,Retail,15640000.0,15,Tepat Waktu
+INV-0976,Retail,47090000.0,15,Tepat Waktu
+INV-0977,Corporate,13710000.0,30,Terlambat
+INV-0978,Retail,22050000.0,15,Tepat Waktu
+INV-0979,Retail,43760000.0,15,Tepat Waktu
+INV-0980,Corporate,42250000.0,45,Terlambat
+INV-0981,Retail,10120000.0,30,Tepat Waktu
+INV-0982,Corporate,40330000.0,15,Tepat Waktu
+INV-0983,Retail,23450000.0,15,Tepat Waktu
+INV-0984,Retail,24670000.0,30,Tepat Waktu
+INV-0985,Corporate,7540000.0,45,Tepat Waktu
+INV-0986,Retail,4950000.0,30,Tepat Waktu
+INV-0987,Corporate,36670000.0,30,Terlambat
+INV-0988,Retail,25330000.0,15,Tepat Waktu
+INV-0989,Retail,22410000.0,15,Tepat Waktu
+INV-0990,Corporate,36750000.0,45,Tepat Waktu
+INV-0991,Corporate,38510000.0,15,Tepat Waktu
+INV-0992,Corporate,8790000.0,15,Tepat Waktu
+INV-0993,Retail,30900000.0,30,Tepat Waktu
+INV-0994,Corporate,7630000.0,15,Terlambat
+INV-0995,Retail,37820000.0,45,Tepat Waktu
+INV-0996,Retail,33190000.0,30,Tepat Waktu
+INV-0997,Government,47870000.0,45,Tepat Waktu
+INV-0998,Retail,4380000.0,30,Tepat Waktu
+INV-0999,Government,3800000.0,15,Tepat Waktu
+INV-1000,Retail,14830000.0,30,Tepat Waktu
